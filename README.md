@@ -4,6 +4,10 @@ Generate fantastic image.
 
 ![Smaple](https://raw.githubusercontent.com/suzuki86/spacestuff/assets/broccoli.jpg)
 
+## Dependencies
+
+- RMagick
+
 ## Installation
 
 Clone repository to your local machine.
